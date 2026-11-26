@@ -1,0 +1,25 @@
+# Autocaravanas Ruta 340 — https://alquiler-autocaravana.com
+# Permitimos a todos los buscadores y asistentes de IA leer la web.
+
+User-agent: *
+Allow: /
+
+# Buscadores e IA (permitidos de forma explícita)
+User-agent: Googlebot
+User-agent: Bingbot
+User-agent: Google-Extended
+User-agent: GPTBot
+User-agent: OAI-SearchBot
+User-agent: ChatGPT-User
+User-agent: ClaudeBot
+User-agent: Claude-SearchBot
+User-agent: Claude-User
+User-agent: PerplexityBot
+User-agent: Perplexity-User
+User-agent: Applebot
+User-agent: Applebot-Extended
+User-agent: meta-externalagent
+User-agent: DuckAssistBot
+Allow: /
+
+Sitemap: https://alquiler-autocaravana.com/sitemap.xml
